@@ -5,10 +5,10 @@ updates:
     schedule:
       interval: "daily"
       timezone: "Asia/Kolkata"
-      time: "17:40"
+      time: "10:00"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "daily"
       timezone: "Asia/Kolkata"
-      time: "17:40"
+      time: "10:00"
