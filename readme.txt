@@ -1,0 +1,1 @@
+Dependabot alleviates that pain by updating your dependencies automatically, so you can spend less time updating dependencies and more time building. Up until now, the Dependabot features we've brought to GitHub have focused on automated security updates, which update packages that have known vulnerabilities.
